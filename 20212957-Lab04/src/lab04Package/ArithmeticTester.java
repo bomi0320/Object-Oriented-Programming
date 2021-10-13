@@ -10,7 +10,7 @@ public class ArithmeticTester {
 		int age4 = 44;
 		
 		
-		double averageAge = (age1 + age2 + age3 + age4) / 4.0;
+		double averageAge = (age1 + age2 + age3 + age4) / 4.0; // 실수 나누면 결과값이 실수가 됨.
 		System.out.println(averageAge);
 	}
 
